@@ -1,0 +1,54 @@
+html {
+  border: 2px solid purple;
+}
+
+body {
+  background: url("Media/Questionmark.jpg");
+  background-repeat: repeat;
+}
+div {
+  background-color: rgb(181, 189, 233);
+  padding: 40px 75px;
+  width: 800px;
+  border: 1px blue solid ;
+  margin: auto;
+}
+h1{
+  text-align: center;
+  font-family: 'Montserrat' , sans-serif;
+} 
+h2{
+  background-color: rgba(255, 255, 255, 0.329);
+  /* letter-spacing: 0px; */
+}
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+a:visited {
+    color: red;
+    text-decoration: underline;
+}
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+a:active {
+  background-color: springgreen;
+}
+
+button{
+  background-color: navy;
+  color: beige;
+  padding: 15px 18px;
+  border-radius: 10px;
+}
+
+img{
+  border: 2px solid black;
+}
+
+span{
+  color: firebrick;
+}
